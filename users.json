@@ -1,0 +1,434 @@
+[
+    {
+        "id": 1,
+        "Name": "Emily Davis",
+        "Age": 29,
+        "Location": "New York, USA",
+        "Gender": "Female",
+        "Interests": [
+            "Photography",
+            "Traveling",
+            "Yoga"
+        ],
+        "Likes": [
+            "Italian food",
+            "Beaches",
+            "Jazz music"
+        ],
+        "Dislikes": [
+            "Crowded places",
+            "Fast food"
+        ],
+        "Occupation": "Marketing Manager",
+        "Hobbies": [
+            "Painting",
+            "Reading fiction"
+        ],
+        "Looking For": "Serious relationship"
+    },
+    {
+        "id": 2,
+        "Name": "James Miller",
+        "Age": 34,
+        "Location": "Los Angeles, USA",
+        "Gender": "Male",
+        "Interests": [
+            "Hiking",
+            "Sports",
+            "Technology"
+        ],
+        "Likes": [
+            "Basketball",
+            "Sci-fi movies",
+            "Mexican food"
+        ],
+        "Dislikes": [
+            "Loud music",
+            "Spicy food"
+        ],
+        "Occupation": "Software Engineer",
+        "Hobbies": [
+            "Gaming",
+            "Coding"
+        ],
+        "Looking For": "Casual dating"
+    },
+    {
+        "id": 3,
+        "Name": "Sophia Johnson",
+        "Age": 26,
+        "Location": "London, UK",
+        "Gender": "Female",
+        "Interests": [
+            "Fashion",
+            "Music",
+            "Social media"
+        ],
+        "Likes": [
+            "Shopping",
+            "Pop music",
+            "Coffee"
+        ],
+        "Dislikes": [
+            "Waking up early",
+            "Rainy weather"
+        ],
+        "Occupation": "Fashion Blogger",
+        "Hobbies": [
+            "Singing",
+            "Dancing"
+        ],
+        "Looking For": "Serious relationship"
+    },
+    {
+        "id": 4,
+        "Name": "Michael Anderson",
+        "Age": 31,
+        "Location": "Toronto, Canada",
+        "Gender": "Male",
+        "Interests": [
+            "Traveling",
+            "Food",
+            "Cars"
+        ],
+        "Likes": [
+            "Road trips",
+            "Burgers",
+            "Football"
+        ],
+        "Dislikes": [
+            "Cold weather",
+            "Long meetings"
+        ],
+        "Occupation": "Sales Executive",
+        "Hobbies": [
+            "Photography",
+            "Cycling"
+        ],
+        "Looking For": "Long-term relationship"
+    },
+    {
+        "id": 5,
+        "Name": "Ava Martinez",
+        "Age": 25,
+        "Location": "Barcelona, Spain",
+        "Gender": "Female",
+        "Interests": [
+            "Art",
+            "History",
+            "Travel"
+        ],
+        "Likes": [
+            "Museums",
+            "Classical music",
+            "Tapas"
+        ],
+        "Dislikes": [
+            "Fast fashion",
+            "Crowded places"
+        ],
+        "Occupation": "Museum Curator",
+        "Hobbies": [
+            "Sketching",
+            "Playing piano"
+        ],
+        "Looking For": "Serious relationship"
+    },
+    {
+        "id": 6,
+        "Name": "Daniel Kim",
+        "Age": 28,
+        "Location": "Seoul, South Korea",
+        "Gender": "Male",
+        "Interests": [
+            "Technology",
+            "Gaming",
+            "Cooking"
+        ],
+        "Likes": [
+            "K-pop",
+            "Street food",
+            "Anime"
+        ],
+        "Dislikes": [
+            "Hot weather",
+            "Public speaking"
+        ],
+        "Occupation": "App Developer",
+        "Hobbies": [
+            "Coding",
+            "Martial arts"
+        ],
+        "Looking For": "Friendship"
+    },
+    {
+        "id": 7,
+        "Name": "Olivia Brown",
+        "Age": 27,
+        "Location": "Sydney, Australia",
+        "Gender": "Female",
+        "Interests": [
+            "Fitness",
+            "Beach",
+            "Movies"
+        ],
+        "Likes": [
+            "Surfing",
+            "Coffee",
+            "Action films"
+        ],
+        "Dislikes": [
+            "Spiders",
+            "Crowds"
+        ],
+        "Occupation": "Personal Trainer",
+        "Hobbies": [
+            "Yoga",
+            "Running"
+        ],
+        "Looking For": "Casual dating"
+    },
+    {
+        "id": 8,
+        "Name": "Liam Wilson",
+        "Age": 30,
+        "Location": "Dublin, Ireland",
+        "Gender": "Male",
+        "Interests": [
+            "Sports",
+            "Reading",
+            "History"
+        ],
+        "Likes": [
+            "Soccer",
+            "Irish music",
+            "Craft beer"
+        ],
+        "Dislikes": [
+            "Laziness",
+            "Pessimism"
+        ],
+        "Occupation": "History Teacher",
+        "Hobbies": [
+            "Playing guitar",
+            "Fishing"
+        ],
+        "Looking For": "Long-term relationship"
+    },
+    {
+        "id": 9,
+        "Name": "Emma White",
+        "Age": 24,
+        "Location": "Vancouver, Canada",
+        "Gender": "Female",
+        "Interests": [
+            "Nature",
+            "Hiking",
+            "Animals"
+        ],
+        "Likes": [
+            "Vegan food",
+            "Sunsets",
+            "Documentaries"
+        ],
+        "Dislikes": [
+            "Pollution",
+            "Loud noises"
+        ],
+        "Occupation": "Veterinarian",
+        "Hobbies": [
+            "Photography",
+            "Volunteering"
+        ],
+        "Looking For": "Serious relationship"
+    },
+    {
+        "id": 10,
+        "Name": "Noah Thompson",
+        "Age": 35,
+        "Location": "Berlin, Germany",
+        "Gender": "Male",
+        "Interests": [
+            "Tech",
+            "Art",
+            "Music"
+        ],
+        "Likes": [
+            "Electronic music",
+            "Coffee",
+            "Biking"
+        ],
+        "Dislikes": [
+            "Smoking",
+            "Heavy metal music"
+        ],
+        "Occupation": "Graphic Designer",
+        "Hobbies": [
+            "Painting",
+            "DJing"
+        ],
+        "Looking For": "Serious relationship"
+    },
+    {
+        "id": 11,
+        "Name": "Isabella Garcia",
+        "Age": 29,
+        "Location": "Buenos Aires, Argentina",
+        "Gender": "Female",
+        "Interests": [
+            "Cooking",
+            "Travel",
+            "Languages"
+        ],
+        "Likes": [
+            "Tango",
+            "Wine",
+            "Beach"
+        ],
+        "Dislikes": [
+            "Dishonesty",
+            "Long flights"
+        ],
+        "Occupation": "Chef",
+        "Hobbies": [
+            "Baking",
+            "Learning new languages"
+        ],
+        "Looking For": "Friendship"
+    },
+    {
+        "id": 12,
+        "Name": "Alexander Lee",
+        "Age": 32,
+        "Location": "Hong Kong",
+        "Gender": "Male",
+        "Interests": [
+            "Finance",
+            "Cars",
+            "Technology"
+        ],
+        "Likes": [
+            "Luxury cars",
+            "Sushi",
+            "Movies"
+        ],
+        "Dislikes": [
+            "Arrogance",
+            "Waiting"
+        ],
+        "Occupation": "Investment Banker",
+        "Hobbies": [
+            "Golf",
+            "Traveling"
+        ],
+        "Looking For": "Long-term relationship"
+    },
+    {
+        "id": 13,
+        "Name": "Mia Patel",
+        "Age": 24,
+        "Location": "Mumbai, India",
+        "Gender": "Female",
+        "Interests": [
+            "Yoga",
+            "Meditation",
+            "Spirituality"
+        ],
+        "Likes": [
+            "Indian cuisine",
+            "Folk music",
+            "Temples"
+        ],
+        "Dislikes": [
+            "Pollution",
+            "Overcrowding"
+        ],
+        "Occupation": "Yoga Instructor",
+        "Hobbies": [
+            "Dancing",
+            "Traveling"
+        ],
+        "Looking For": "Serious relationship"
+    },
+    {
+        "id": 14,
+        "Name": "Benjamin Carter",
+        "Age": 36,
+        "Location": "Auckland, New Zealand",
+        "Gender": "Male",
+        "Interests": [
+            "Fishing",
+            "Adventure sports",
+            "Nature"
+        ],
+        "Likes": [
+            "Mountain biking",
+            "Seafood",
+            "Camping"
+        ],
+        "Dislikes": [
+            "Traffic",
+            "Long meetings"
+        ],
+        "Occupation": "Entrepreneur",
+        "Hobbies": [
+            "Rock climbing",
+            "Kayaking"
+        ],
+        "Looking For": "Friendship"
+    },
+    {
+        "id": 15,
+        "Name": "Chloe Schmidt",
+        "Age": 27,
+        "Location": "Zurich, Switzerland",
+        "Gender": "Female",
+        "Interests": [
+            "Skiing",
+            "Photography",
+            "Food"
+        ],
+        "Likes": [
+            "Swiss chocolate",
+            "Mountains",
+            "Wine"
+        ],
+        "Dislikes": [
+            "Early mornings",
+            "Cold food"
+        ],
+        "Occupation": "Architect",
+        "Hobbies": [
+            "Drawing",
+            "Hiking"
+        ],
+        "Looking For": "Serious relationship"
+    },
+    {
+        "id": 16,
+        "Name": "Jack Adams",
+        "Age": 31,
+        "Location": "Chicago, USA",
+        "Gender": "Male",
+        "Interests": [
+            "Finance",
+            "Movies",
+            "Fitness"
+        ],
+        "Likes": [
+            "Gym",
+            "Action movies",
+            "Pizza"
+        ],
+        "Dislikes": [
+            "Messy places",
+            "Procrastination"
+        ],
+        "Occupation": "Financial Analyst",
+        "Hobbies": [
+            "Running",
+            "Basketball"
+        ],
+        "Looking For": "Casual dating"
+    }
+]
