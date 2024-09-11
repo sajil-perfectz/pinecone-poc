@@ -7,6 +7,7 @@ This repository contains a Jupyter notebook that demonstrates how to store and q
 - **Store Vector Embeddings**: Demonstrates how to store vector embeddings in Pinecone DB using a simple and efficient process.
 - **Query Vector Embeddings**: Demonstrates how to query the database for nearest neighbors or similar vectors based on cosine similarity.
 - **Pinecone Integration**: Step-by-step guide on integrating Pinecone with your machine learning workflows.
+- **Cohere Embedding Model**: Using the text embedding model from cohere.
 
 ## Prerequisites
 
@@ -15,15 +16,18 @@ Before you begin, ensure you have the following installed:
 - Python 3.8 or later
 - Jupyter Notebook
 - An active [Pinecone](https://www.pinecone.io/) account
+- A [Cohere](https://cohere.com/) account
 
 ## setup steps -
 
-1. clone the repo: git clone https://github.com/sajil-perfectz/pinecone-poc.git
+1. clone the repo:
+```bash
+git clone https://github.com/sajil-perfectz/pinecone-poc.git
+```
 
-2. add the api-keys :
+3. add the api-keys :
 
-3. Install required packages:
-
+4. Install required packages:
 ```bash
 pip install -r requirements.txt
 ```
